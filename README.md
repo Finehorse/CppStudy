@@ -1,0 +1,2 @@
+﻿The codes in this repositories are some simples notes  when the author reviews the c++ in 2017.3.12. 
+This codes is some basis skill about c++,if you want study more about it ,you can ask  some books  for help.
